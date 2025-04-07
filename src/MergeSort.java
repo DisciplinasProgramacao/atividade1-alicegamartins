@@ -1,5 +1,4 @@
 public class Ordenador {
-
     public static void mergeSortPorNome(List<Produto> produtos) {
         if (produtos.size() > 1) {
             int meio = produtos.size() / 2;
